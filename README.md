@@ -1,4 +1,4 @@
-# Examen-DIU
+# Examen-DIU - Sandra Reinoso Ortega
 ## Parte 1: Mi experiencia UX
 En esta asignatura he podido adquirir unos conocimientos y una experiencia que me han permitido ver lo que me rodea desde otra perspectiva. Ahora cada vez que veo cualquier página web o cualquier aplicación me hago preguntas del tipo ¿Por qué habrán elegido esta disposición de elementos? ¿Y esta paleta de colores? ¿Está página se adaptará a las distintas discapacidades que pueden tener sus usuarios?
 
