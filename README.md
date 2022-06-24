@@ -58,7 +58,7 @@ Al mismo tiempo que desarrollábamos capacidades críticas de los sitios web que
 En esta parte del examen vamos a realizar un caso de estudio sobre la app de cityme en comparación con una app clásica de Free tour llamada Guru Walk, para ello procedo a valorar las técnicas y metodologías de diseño centrado en el usuario y UX. He descargado la aplicación desde la tienda de app de mi móvil y vamos a realizar un seguimiento similar al realizado en las prácticas para valorar esta nueva funcionalidad.
 
 
-# Paso 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis 
 
 1.a Analisis de competitivad
 ----
@@ -98,7 +98,9 @@ Elena es una chica tímida, muy comprometida con sus estudios, le gusta pasar ti
 
 <img src="imagen/elena.png" />
 
-1.c Usability Review
+
+## Paso 2. Analisis
+2.a Usability Review
 ----
 
 Los principales defectos que nos encontramos son la falta de funcionalidad que no sean de pago, ya que casi que no se pude realizar ninguna acción sin que tengamos que pagar. Otro aspecto en contra es el escaso catálogo de sitios que nos ofrece esta aplicación, solo 5.
@@ -106,3 +108,15 @@ Los principales defectos que nos encontramos son la falta de funcionalidad que n
 
 Se ha obtenido una valoración general de **46** puntos sobre **100**.
 
+2.b  Resultados de SUS 
+----
+
+A continuación se muestran los resultados obtenidos a partir del cuestionario SUS en base a la experiencia de los cuatro distintos usuarios.
+
+<img src="imagen/sus.png" />
+
+## Paso 3. Conclusiones
+
+La aplicación Cityme es un poco escasa, aunque el diseño está muy bien resaltando los elementos más significativos y utilizando un buen diseño y paleta de colores.
+
+Pienso que puede desarrollarse más y en un futuro si se corrigen errores e implementan más funcionalidades que no sean de pago podrá llegar a un amplio público
