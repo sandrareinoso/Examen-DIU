@@ -111,7 +111,7 @@ Se ha obtenido una valoración general de **46** puntos sobre **100**.
 2.b  Resultados de SUS 
 ----
 
-A continuación se muestran los resultados obtenidos a partir del cuestionario SUS en base a la experiencia de los cuatro distintos usuarios.
+A continuación se muestran los resultados obtenidos a partir del cuestionario SUS en base a la experiencia de las dos personas antes descritas
 
 <img src="imagen/sus.png" />
 
