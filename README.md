@@ -55,3 +55,54 @@ Al mismo tiempo que desarrollábamos capacidades críticas de los sitios web que
 > Un sueño no se hace realidad por arte de magia; necesita sudo, determinación y trabajo duro. **_Colin Powelll_**
 
 ## PARTE II: Caso de estudio: App Tour ciudad Vs Free Tour App
+En esta parte del examen vamos a realizar un caso de estudio sobre la app de cityme en comparación con una app clásica de Free tour llamada Guru Walk, para ello procedo a valorar las técnicas y metodologías de diseño centrado en el usuario y UX. He descargado la aplicación desde la tienda de app de mi móvil y vamos a realizar un seguimiento similar al realizado en las prácticas para valorar esta nueva funcionalidad.
+
+
+# Paso 1. UX Desk Research & Analisis 
+
+1.a Analisis de competitivad
+----
+
+En la siguiente tabla vamos a comprar, mediante la realización de un análisis, la app de **Guru walk** con la de **City me**. 
+<img src="imagen/logo.png" width="250"/>
+
+A continuación se comparan los productos ofrecidos por cada uno así como algunas funcionalidades de la aplicación mediante una tabla que contiene afirmaciones y negaciones así como algunas aclaraciones en los casos más ambiguos.
+
+|  	 | [City me](https://cityme.eu/) | [Guru Walk](https://www.guruwalk.com/)    | 
+| ------------- | -------- | ----------- | 
+| Galería de imágenes | Si | Si |
+| Perfil | Si | Si |
+| Tutorial de la aplicación | Si | No |
+| Catálogo de lugares  |Si, escaso 5 destinos | Si |
+| Funcionalidades de pago | Si, casí todo| Si |
+| Filtros por idioma | No | Si |
+| Filtros por ciudad | No | Si |
+| Filtros por horario | No | Si |
+| Filtros por calidad | No | Si |
+| Selector de idioma | Si, Español Inglés y Francés | NO |
+
+1.b Personas imaginarias
+-----
+
+Se ha procedido a la creación de dos personas, Carmen y Elena, para analizar el perfil de posibles clientes de nuestra aplicación **City me** así como su actitud a la hora de ver si les ayudaría en la situación de que se encuentren visitando una ciudad de su guía.
+
+### Carmen
+
+Es un chica extrovertido que busca conocer a otra gente mientras se lo pasa bien disfrutando de sus aficiones, le gusta socializar y salir de su zona de confort.
+
+<img src="imagen/carmen.png"/>
+
+### Eleba
+
+Elena es una chica tímida, muy comprometida con sus estudios, le gusta pasar tiempo con sus amigos, por lo que deciden irse un fin de semana de vacaciones juntas ahora que han acabado los exámenes.
+
+<img src="imagen/elena  .png" />
+
+1.c Usability Review
+----
+
+Los principales defectos que nos encontramos son la falta de funcionalidad que no sean de pago, ya que casi que no se pude realizar ninguna acción sin que tengamos que pagar. Otro aspecto en contra es el escaso catálogo de sitios que nos ofrece esta aplicación, solo 5.
+
+
+Se ha obtenido una valoración general de **81** puntos sobre **100**.
+-----
