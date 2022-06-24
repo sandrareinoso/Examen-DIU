@@ -10,7 +10,7 @@ momento  dentro de la historia de la producción de interfaces de en el mundo de
 
 Gracias a los ejercicios etnográficos me planteo que existen muchos estándares en nuestro día a día a los que no les prestamos demasiada atención, ¿Por qué los elementos más significativos de una web suelen resaltarse con colores vivos? ¿Por qué los botones de enviar de los servicios de mensajería siempre estan a la derecha? ¿Por qué el menú de Window esta en la parte de abajo de la pantalla y el de Linux en la zona lateral izquierda?
 
-<img src="../img/imagen_diu.png"/>
+<img src="../imagen/imagen_diu.png"/>
 
 A este sentido crítico, de observación y cuestionamiento es al que me vengo refiriendo, estas preguntas que fluctúan en mi cabeza antes ni si quiera me las planteaba.
 
@@ -30,7 +30,7 @@ Desde la primera práctica se nos ha pedido que valoremos un sitio web, en mi ca
 Tener los elementos principales bien situados en la página central, no utilizar un texto escesivo ni tampoco escaso y la correcta combinación gráfica son puntos muy a tener en cuenta a la hora de diseñar nuestro sitio.
 
 
-<img src="../img/logo.png"/>
+<img src="../imagen/logo.png"/>
 
 Posteriormente en el resto de prácticas tuvimos que diseñar desde 0 una nueva funcionalidad que se pudises aplicar a nuestro hostel.
 
@@ -52,6 +52,6 @@ Para finalizar y resaltar una vez lo dicho anteriormente gracias a la realizaci�
 
 Al mismo tiempo que desarrollábamos capacidades críticas de los sitios web que visitamos y de las aplicaciones que usamos diariamente. Gracias a ello  hemos aprendido a valorar el trabajo que requiere todo lo que nos rodea y que en la mayoría de los casos no lo sabemos valorar adecuadamente.
 
-> Un sueño no se hace realidad por arte de magia; necesita sudo, determinación y trabajo duro.
+> Un sueño no se hace realidad por arte de magia; necesita sudo, determinación y trabajo duro. **_Colin Powelll_**
 
 ## PARTE II: Caso de estudio: App Tour ciudad Vs Free Tour App
