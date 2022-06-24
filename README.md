@@ -64,6 +64,7 @@ En esta parte del examen vamos a realizar un caso de estudio sobre la app de cit
 ----
 
 En la siguiente tabla vamos a comprar, mediante la realización de un análisis, la app de **Guru walk** con la de **City me**. 
+
 <img src="imagen/cityme.png" width="250"/>
 
 A continuación se comparan los productos ofrecidos por cada uno así como algunas funcionalidades de la aplicación mediante una tabla que contiene afirmaciones y negaciones así como algunas aclaraciones en los casos más ambiguos.
