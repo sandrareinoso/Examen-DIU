@@ -30,7 +30,7 @@ Desde la primera práctica se nos ha pedido que valoremos un sitio web, en mi ca
 Tener los elementos principales bien situados en la página central, no utilizar un texto escesivo ni tampoco escaso y la correcta combinación gráfica son puntos muy a tener en cuenta a la hora de diseñar nuestro sitio.
 
 
-<img src="imagen/logo.png"/>
+<img src="imagen/logo.png" width="250"/>
 
 Posteriormente en el resto de prácticas tuvimos que diseñar desde 0 una nueva funcionalidad que se pudises aplicar a nuestro hostel.
 
