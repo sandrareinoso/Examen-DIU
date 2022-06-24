@@ -92,11 +92,11 @@ Es un chica extrovertido que busca conocer a otra gente mientras se lo pasa bien
 
 <img src="imagen/carmen.png"/>
 
-### Elena
+### Eleba
 
 Elena es una chica tímida, muy comprometida con sus estudios, le gusta pasar tiempo con sus amigos, por lo que deciden irse un fin de semana de vacaciones juntas ahora que han acabado los exámenes.
 
-<img src="imagen/elena.png" />
+<img src="imagen/elena  .png" />
 
 1.c Usability Review
 ----
@@ -104,5 +104,5 @@ Elena es una chica tímida, muy comprometida con sus estudios, le gusta pasar ti
 Los principales defectos que nos encontramos son la falta de funcionalidad que no sean de pago, ya que casi que no se pude realizar ninguna acción sin que tengamos que pagar. Otro aspecto en contra es el escaso catálogo de sitios que nos ofrece esta aplicación, solo 5.
 
 
-Se ha obtenido una valoración general de **81** puntos sobre **100**.
------
+Se ha obtenido una valoración general de **46** puntos sobre **100**.
+
