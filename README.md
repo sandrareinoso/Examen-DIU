@@ -92,11 +92,11 @@ Es un chica extrovertido que busca conocer a otra gente mientras se lo pasa bien
 
 <img src="imagen/carmen.png"/>
 
-### Eleba
+### Elena
 
 Elena es una chica tímida, muy comprometida con sus estudios, le gusta pasar tiempo con sus amigos, por lo que deciden irse un fin de semana de vacaciones juntas ahora que han acabado los exámenes.
 
-<img src="imagen/elena  .png" />
+<img src="imagen/elena.png" />
 
 1.c Usability Review
 ----
